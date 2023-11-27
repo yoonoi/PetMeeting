@@ -19,7 +19,7 @@
 ### 입양 신청
 ![9  입양신청](https://github.com/yoonoi/PetMeeting/assets/94058311/69227207-ae20-4aae-a81f-f3269504c03a)
 
-### IOT 기기 조적
+### IOT 기기 조작
 ![11  IoT 기기 조작](https://github.com/yoonoi/PetMeeting/assets/94058311/5d1a8af3-3cb2-4408-b7c6-e7a3d81005e5)
 
 ### 유기견 상세 및 후원
